@@ -1,4 +1,4 @@
-#Assignment 1
+# Assignment 1
 Classwork for Artificial Intelligence class.
 Tasked to solve the dirt vacuum problem, an 8 by 8 grid, 20 random cells contain dirt, and one agent.
 The agent starts in the bottom left corner, and moves about in the four cardinal directions, up, down, left, and right.
